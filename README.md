@@ -1,2 +1,0 @@
-# KNSTBC
-Đồ án KNSTBC
